@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enmohsinali
-- 👀 I have 4+ years of experiance in PHP, Angular, Laravel and MySql.
-- 🌱 I’m currently learning Nodejs.
+- 👀 I have 4+ years of experiance in PHP, Node.js, Angular, Laravel and MySql.
+- 🌱 I’m currently learning and working on Blockchain.
 - 💞️ I’m available as freelance.
 - 📫 How to reach me ?  Email or DM.
 
